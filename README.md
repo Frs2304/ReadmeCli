@@ -12,3 +12,17 @@ The ReadmeCli is a powerful tool that simplifies the process of creating informa
     contributors to understand your project's structure and find relevant information quickly.
 
     Customization: Tailor the generated READMEs to suit the specific needs of your projects.
+
+## Installation
+
+To run the Quiz App on your local machine, follow these steps:
+
+    Clone the repository: git clone https://github.com/Frs2304/ReadmeCli.git
+
+    Navigate to the project directory: cd ReadmeCli
+
+    Install dependencies: npm install
+
+    Start the CLI: node index.js 
+
+    
