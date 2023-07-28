@@ -8,8 +8,7 @@ The ReadmeCli is a powerful tool that simplifies the process of creating informa
     Informative and Comprehensive: The ReadmeCli guides you through a structured approach to writing READMEs,
     ensuring essential project information like installation, instructions, usage examples, and contribution guidelines are included.
 
-    
-
-    Standardization: Promote consistency across different projects and repositories, making it easier for users and contributors to understand your project's structure and find relevant information quickly.
+    Standardization: Promote consistency across different projects and repositories, making it easier for users and
+    contributors to understand your project's structure and find relevant information quickly.
 
     Customization: Tailor the generated READMEs to suit the specific needs of your projects.
