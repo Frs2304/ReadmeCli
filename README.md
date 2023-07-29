@@ -19,7 +19,7 @@ To run the Quiz App on your local machine, follow these steps:
 
     Clone the repository: git clone https://github.com/Frs2304/ReadmeCli.git
 
-    Navigate to the project directory: cd ReadmeCli
+    Navigate to the project directory: cd readmecli
 
     Install dependencies: npm install
 
